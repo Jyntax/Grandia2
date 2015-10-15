@@ -15,5 +15,3 @@ Exp:				8
 SC:				15
 MC:				5
 Gold:				2
-
-LvlHPMPSP250ExpSCMCGoldDefActMovM.Def
