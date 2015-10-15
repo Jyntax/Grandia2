@@ -1,0 +1,37 @@
+Weapons:
+Swordfish Sword	2200G
+Oracle's Staff		1800G
+Flying Fish Bow	2400G
+Flint Knife		2000G
+Hammer Axe		2200G
+
+Armor:
+Pixie's Robe		2600G
+Swordfish Armor	2800G
+Feathered Hat		1120G
+Magnolia Bandana	1080G
+Swordfish Helmet	1250G
+Crampons		420G
+
+Jewelry:
+Acrtic Cape		800G
+Earth Charm		400G
+Poison Charm		250G
+Paralysis Charm	250G
+
+Items:
+Medicinal Herb		10G
+Wound Salve		24G
+Healing Herb		50G
+Poison Antidote	14G
+Paralysis Salve	14G
+Purifying Herb		40G
+Torte's Reedpipe	30G
+Smelling Salts		20G
+
+Regional:
+Lumir Flower		40G
+Blueberry		40G
+Mogay Bomb		250G
+Insecticide Bomb	60G
+Sleeping Harp		250G

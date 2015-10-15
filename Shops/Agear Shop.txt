@@ -1,0 +1,30 @@
+Weapons:
+Falx			500G
+Shamshir		620G
+Army Saber		750G
+Iron Rod		720G
+
+Armor:
+Leather Jacket	650G
+Quilted Silk		800G
+Leather Armor		750G
+Chain Mail		950G
+Traveler's Hat		300G
+Leather Bandana	350G
+Climbing Boots		200G
+
+Jewelry:
+Heavy Stone		120G
+Sleep Charm		250G
+
+Items:
+Medicinal Herb		10G
+Wound Salve		24G
+Posion Antidote	14G
+Paralysis Salve	14G
+Eye Drops		14G
+Smelling Salts		20G
+
+Rgional:
+Mushroom Cloud	20G
+Hand Grenade		60G

@@ -1,0 +1,43 @@
+Weapons:
+Claymore		3600G
+Sister's Staff		3500G
+Halberd		4400G
+
+Armor:
+Sister's Robe		4500G
+Sister's Hat		1750G
+Heavy Boots		800G
+
+Jewelry:
+Healing Ring		500G
+Poison Charm		250G
+Sleep Charm		250G
+Confusion Charm	250G
+Paralysis Charm	250G
+Move Block Charm	400G
+MagicBlock Charm	400G
+
+Items:
+Wound Salve		24G
+Holy Wound Salve	60G
+Healing Herb		50G
+Scroll of Alheal	120G
+Poison Antidote 	14G
+Paralyiss Salve	14G
+Purivying Herb		40G
+Torte's Reedpipe	30G
+Smelling Salts		20G
+Move Blessing		50G
+Magic Blessing		50G
+Yomi's Elixir		500G
+
+Regional:
+Butter Roll		120G
+Fresh Sandwich	100G
+Mogay Bomb		250G
+Holy Ashes		200G
+Myriad Power Nut	20G
+Patience Nut		20G
+Sympathy Nut		20G
+Swiftness Nut		20G
+

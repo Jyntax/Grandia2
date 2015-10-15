@@ -1,0 +1,45 @@
+Weapons:
+Army Saber		750G
+Samurai Blade		900G
+Iron Rod		720G
+Flame Staff		1250G
+Battle Rod		960G
+Mutliple Knife		650G
+Hunter's Knife		880G
+
+Armor:
+Quilted Silk		800G
+Guardian Robe		1200G
+Chain Mail		950G
+Plate Mail		1400G
+Guardian Hat		450G
+Iron Bandana		480G
+Iron Helm		600G
+Hunter's Boots	400G
+
+Jewelry:
+Gauntlet		800G
+Fire Charm		400G
+Wind Charm		400G
+Earth Charm		400G
+Lightning Charm	400G
+Blizzard Charm		400G
+
+Items:
+Medicinal Herb		10G
+Wound Salve		24G
+Healing Herb		50G
+Poison Antidote	14G
+Paralysis Salve	14G
+Eye Drops		14G
+Smelling Salts		20G
+Yomi's Elixir		500G
+
+Regional:
+Hand Grenade		60G
+Insecticide Bomb	60G
+Fireball Scroll		50G
+Whilwind Scroll	60G
+Patience Nut		20G
+Swiftness Nut		20G
+Kuko Berry		10G
