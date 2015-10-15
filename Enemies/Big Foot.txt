@@ -1,0 +1,17 @@
+HP:				750
+MP:				?
+SP:				?
+Def:				?
+Act:				?
+Mov:				?
+M.Def:				?
+Status Resistances:		?
+Fire:				248
+Wind:				0
+Earth:				0
+Lightning:			0
+Blizzard:			9
+Exp:				29
+SC:				47
+MC:				35
+Gold:				46
